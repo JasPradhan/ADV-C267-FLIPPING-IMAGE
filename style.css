@@ -1,0 +1,19 @@
+body{
+background: aliceblue;
+}
+
+
+#select{
+width: 30%;
+}
+
+#text_area{
+width: 80%;
+}
+
+h1{
+background: #67cebb;
+padding:15px;
+}
+
+
